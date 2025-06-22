@@ -1,2 +1,3 @@
 # Shell
-Schell Scripts for terraform
+Schell Scripts for terraform 
+Shell scripts for terraform
